@@ -46,7 +46,7 @@
 <body>
     <header>
         <h1>Anita's Resume</h1>
-        <p>RESUME</p>
+
     </header>
 
     <section id="experience" class="job">
